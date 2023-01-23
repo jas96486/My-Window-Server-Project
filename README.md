@@ -1,5 +1,5 @@
 # Window-Server-Project
-# Here I used Window Server 2016 Virtual Machine to bulit this Project
+# Window Server 2016 Virtual Machine is used to built this project
 
 ![image](https://user-images.githubusercontent.com/104744741/213940495-23a0fd92-bf40-49dd-a8e0-3ebfe63aada9.png)
 
